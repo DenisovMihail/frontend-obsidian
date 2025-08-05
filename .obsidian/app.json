@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "./Cache",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

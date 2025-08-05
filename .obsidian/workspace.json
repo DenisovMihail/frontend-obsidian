@@ -6,7 +6,7 @@
       {
         "id": "96e926d972b51982",
         "type": "tabs",
-        "dimension": 69.83240223463686,
+        "dimension": 46.37473079684135,
         "children": [
           {
             "id": "12fe641115433c30",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Переменная.md",
+                "file": "HTML/Теги.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Переменная"
+              "title": "Теги"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "05e8475a5ba2dab9",
         "type": "tabs",
-        "dimension": 30.167597765363123,
+        "dimension": 53.62526920315865,
         "children": [
           {
             "id": "68d832b309ef077d",
@@ -58,7 +58,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -79,7 +79,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Поиск"
+              "title": "Search"
             }
           },
           {
@@ -89,7 +89,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Закладки"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -188,30 +188,41 @@
   },
   "active": "68d832b309ef077d",
   "lastOpenFiles": [
-    "Переменная.md",
-    "Комментарии.md",
-    "JavaScript.md",
-    "Оператор.md",
-    "Как называть переменные.md",
-    "Функция.md",
-    "Метод.md",
-    "Тег script.md",
-    "внешние скрипты.md",
-    "HTML.md",
-    "Консоль разработчика.md",
+    "HTML/Теги.md",
+    "HTML/div.md",
+    "HTML/img.md",
     "Frontend.md",
-    "внутренние скрипты.md",
-    "Методы.md",
+    "JavaScript/JavaScript.md",
+    "HTML/script.md",
+    "HTML/Script.md",
+    "HTML/a.md",
+    "JavaScript/Тег script.md",
+    "HTML/nav.md",
+    "HTML/title.md",
+    "HTML/meta.md",
+    "HTML/link.md",
+    "HTML/button.md",
+    "HTML/li.md",
+    "HTML/ol.md",
+    "HTML/ul.md",
+    "HTML/form.md",
+    "HTML/input.md",
+    "HTML/span.md",
+    "HTML/p.md",
+    "head.md",
+    "HTML/HTML.md",
+    "JavaScript/строка.md",
+    "CSS",
+    "HTML",
+    "JavaScript",
+    "JavaScript/Оператор.md",
+    "JavaScript/Переменная.md",
     "Cache/Pasted image 20250804204108.png",
     "Cache/Pasted image 20250804204011.png",
     "Cache/Pasted image 20250804203322.png",
     "Cache/Pasted image 20250804203146.png",
     "Cache/Pasted image 20250804202739.png",
-    "CSS.md",
     "html&css&javascript",
-    "css.md",
-    "Добро пожаловать.md",
-    "создайте ссылку.md",
     "Cache/[`r.png",
     "Cache"
   ]
