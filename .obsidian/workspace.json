@@ -112,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Git"
+              "title": "Backlinks"
             }
           },
           {
@@ -186,12 +185,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12fe641115433c30",
+  "active": "05cd4ff4137909e3",
   "lastOpenFiles": [
-    "CSS/CSS.md",
-    "OBSIDIAN.md",
-    "ИмяЗаметки.md",
+    "OBSIDIAN/OBSIDIAN.md",
+    "OBSIDIAN",
+    "Git",
     "Git.md",
+    "CSS/CSS.md",
+    "OBSIDIAN/ИмяЗаметки.md",
     "HTML/HTML.md",
     "HTML/Теги.md",
     "HTML/script.md",
@@ -213,7 +214,6 @@
     "Frontend.md",
     "JavaScript/Тег script.md",
     "JavaScript/Внутренние скрипты.md",
-    "JavaScript/Внешние скрипты.md",
     "CSS",
     "HTML",
     "JavaScript",
