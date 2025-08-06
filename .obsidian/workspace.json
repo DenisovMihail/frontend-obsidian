@@ -33,10 +33,14 @@
             "id": "05cd4ff4137909e3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "OBSIDIAN/OBSIDIAN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OBSIDIAN"
             }
           }
         ]
@@ -96,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.51103591918945
+    "width": 200
   },
   "right": {
     "id": "b0b6245a77fa3a0d",
@@ -112,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OBSIDIAN/OBSIDIAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for OBSIDIAN"
             }
           },
           {
@@ -187,10 +192,11 @@
   },
   "active": "05cd4ff4137909e3",
   "lastOpenFiles": [
+    "JavaScript/Тег script.md",
     "OBSIDIAN/OBSIDIAN.md",
+    "Git.md",
     "OBSIDIAN",
     "Git",
-    "Git.md",
     "CSS/CSS.md",
     "OBSIDIAN/ИмяЗаметки.md",
     "HTML/HTML.md",
@@ -212,7 +218,6 @@
     "CSS/Флексбокс (Flexbox).md",
     "CSS/Блочная модель (Box Model).md",
     "Frontend.md",
-    "JavaScript/Тег script.md",
     "JavaScript/Внутренние скрипты.md",
     "CSS",
     "HTML",
